@@ -23,6 +23,7 @@ class Perso {
   }
 }
 
+// <3 names generated thank's to Fantasy Name Generators : https://www.fantasynamegenerators.com <3
 const names = [
   "Thanos",
   "Skilled Hammer",
